@@ -57,3 +57,10 @@ ro.recovery.ui.margin_height=48
 
 # WiFi
 wifi.interface=wlan0
+
+# Sparks OS 
+ro.spark.device.name=POCO X3 NFC
+ro.spark.group.url=https://t.me/sparkredmi7
+ro.spark.maintainer=Ram Badan Pandey
+ro.spark.maintainer.username=MrTechnoStart
+
